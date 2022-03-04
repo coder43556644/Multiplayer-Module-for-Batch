@@ -5,31 +5,31 @@ mode con cols=45 lines=26
 if not exist UsersData md UsersData
 cd UsersData
 :LM
-echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍť
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ş                                          ş
-echo ČÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍź
+echo ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo º                                          º
+echo ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
 :OM
 set ERL=%ERRORLEVEL%
 if %ERL% NEQ %ERRORLEVEL% goto keys
