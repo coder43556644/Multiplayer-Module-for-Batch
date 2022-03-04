@@ -2,34 +2,34 @@
 Title Client 2
 set P=1
 mode con cols=45 lines=26
-if not exist UsersData C:\Users\eveil\Desktop\PJ-LMG md UsersData
+if not exist UsersData md UsersData
 cd UsersData
 :LM
-echo ษออออออออออออออออออออออออออออออออออออออออออป
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo ศออออออออออออออออออออออออออออออออออออออออออผ
+echo รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรลฅ
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ล                                          ล
+echo ฤรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรลบ
 :OM
 set ERL=%ERRORLEVEL%
 if %ERL% NEQ %ERRORLEVEL% goto keys
