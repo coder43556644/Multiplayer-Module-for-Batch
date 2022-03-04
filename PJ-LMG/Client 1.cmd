@@ -2,34 +2,34 @@
 Title Client 1
 set P=1
 mode con cols=45 lines=26
-if not exist UsersData C:\Users\eveil\Desktop\PJ-LMG md UsersData
+if not exist UsersData md UsersData
 cd UsersData
 :LM
-echo ษออออออออออออออออออออออออออออออออออออออออออป
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo บ                                          บ
-echo ศออออออออออออออออออออออออออออออออออออออออออผ
+echo รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo ยบ                                          ยบ
+echo รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ
 :OM
 set ERL=%ERRORLEVEL%
 if %ERL% NEQ %ERRORLEVEL% goto keys
